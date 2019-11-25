@@ -9,8 +9,8 @@
 }*/
 /*  let m = +prompt("Введите первое число", "");
   let n = +prompt("Введите второе число", "");*/
-function sum(m, n) {
-  alert( m ** n );
+function pow(m, n) {
+  return m ** n;
 }
 
 // Math.trunc()
